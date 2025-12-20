@@ -1,11 +1,11 @@
-# 👋 Hola, Soy Dudley May
+# Soy Dudley May
 
-Ingeniero electrónico con experiencia en mantenimiento industrial, refrigeración y automatización.
-Actualmente enfocado en **Python, análisis de datos y automatización de procesos operativos**, aplicados a entornos reales de empresa.
+Ingeniero electrónico y Master en Industria 4.0 con experiencia en mantenimiento industrial, refrigeración y automatización, Big Data y Analytics, Ciberseguridad Industrial, Fabricación Inteligente, Impresión 3D y Simulación,Innovación Tecnológica y Transformación Digital de las Empresas, IoT Industrial, plataformas IoT y aplicaciones por sectores, Proyectos Profesionales para la Digitalización de Empresas en el Contexto de la Industria 4.0, Robótica, Sistemas Inteligentes y Ciberfísicos, Sensores, dispositivos, redes y protocolos de comunicaciones.
+Actualmente enfocado en **Python, análisis de datos y automatización de procesos operativos**, aplicados a entornos reales de empresas.
 
 ---
 
-## 🧠 En qué estoy trabajando actualmente
+## En qué estoy trabajando actualmente
 
 - 📊 Análisis de datos operativos (horas, costos, KPIs)
 - 🐍 Python aplicado a Excel y procesos reales
@@ -15,7 +15,7 @@ Actualmente enfocado en **Python, análisis de datos y automatización de proces
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 - **Lenguajes:** Python
 - **Datos:** Pandas, Excel avanzado
