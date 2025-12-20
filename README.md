@@ -10,7 +10,7 @@ Actualmente enfocado en **Python, análisis de datos y automatización de proces
 - 📊 Análisis de datos operativos (horas, costos, KPIs)
 - 🐍 Python aplicado a Excel y procesos reales
 - ⚙️ Automatización de reportes y validación de datos
-- 📈 Preparación de dashboards (Power BI)
+- 📈 Preparación de dashboards (Power BI), para toma de decisiones
 
 
 ---
