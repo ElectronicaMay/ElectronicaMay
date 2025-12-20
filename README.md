@@ -49,3 +49,4 @@ Aplicar análisis de datos y automatización para:
 
 - LinkedIn: *https://www.linkedin.com/in/dudley-may-ria%C3%B1o/*
 - Celular: *3011742900*
+- Correo electronico: *ing.dudley@outlook.com*
